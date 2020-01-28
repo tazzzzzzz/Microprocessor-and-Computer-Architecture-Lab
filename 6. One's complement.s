@@ -1,0 +1,5 @@
+.text
+MOV R0,#15
+
+MVN R0,R0
+SWI 0X11
